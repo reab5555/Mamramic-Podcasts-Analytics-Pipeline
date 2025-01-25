@@ -1,3 +1,5 @@
+<img src="appendix/icon.jpeg" width="100" alt="alt text">
+
 # Mamramic Podcasts Analytics Pipeline
 
 **Description:**
@@ -20,6 +22,8 @@ The pipeline is built on a three-layer AWS architecture:
 *   **Raw (Bronze) Layer:** Stores raw podcast data ingested from various sources (XML feeds for metadata, ZIP archives with event logs, MP3 audio files for analysis). This uses Amazon S3.
 *   **Staging (Silver) Layer:** Contains data that has undergone partial transformation and cleaning, ready for further processing. We store those files in Parquet format in Amazon S3.
 *   **Curated (Gold) Layer:** Stores clean, aggregated, and analytics-ready data which can be consumed for visualization and business intelligence, including Amazon Redshift as a DW.
+
+<img src="appendix/Spotify Project - Flow.png" width="500" alt="alt text">
 
 **Tools and Technologies:**
 
