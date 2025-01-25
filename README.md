@@ -25,7 +25,7 @@ The pipeline is built on a three-layer AWS architecture:
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
   <img src="appendix/Spotify Project - Flow.png" width="600" alt="Spotify Project Flow" style="margin-right: 20px;">
-  <img src="appendix/Schema.png" width="300" alt="Schema" >
+  <img src="appendix/Schema.png" width="250" alt="Schema" >
 </div>
 
 **Tools and Technologies:**
