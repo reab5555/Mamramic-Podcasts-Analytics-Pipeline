@@ -23,8 +23,8 @@ The pipeline is built on a three-layer AWS architecture:
 *   **Staging (Silver) Layer:** Contains data that has undergone partial transformation and cleaning, ready for further processing. We store those files in Parquet format in Amazon S3.
 *   **Curated (Gold) Layer:** Stores clean, aggregated, and analytics-ready data which can be consumed for visualization and business intelligence, including Amazon Redshift as a DW.
 
-<img src="appendix/Spotify Project - Flow.png" width="500" alt="alt text">
-<img src="appendix/Schema.png" width="500" alt="alt text">
+<img src="appendix/Spotify Project - Flow.png" width="600" alt="alt text">
+<img src="appendix/Schema.png" width="300" alt="alt text">
 
 **Tools and Technologies:**
 
