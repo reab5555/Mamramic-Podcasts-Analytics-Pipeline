@@ -1,0 +1,9 @@
+apache-airflow[aws,postgres,celery]
+boto3
+s3fs
+pandas
+pyarrow
+awswrangler
+tqdm
+requests
+nltk
