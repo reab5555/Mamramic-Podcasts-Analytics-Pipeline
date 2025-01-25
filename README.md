@@ -1,4 +1,4 @@
-<img src="appendix/1200px-Spotify.png" width="100" alt="alt text">
+<img src="appendix/1200px-Spotify.png" width="50" alt="alt text">
 
 # Mamramic Podcasts Analytics Pipeline
 
@@ -24,6 +24,7 @@ The pipeline is built on a three-layer AWS architecture:
 *   **Curated (Gold) Layer:** Stores clean, aggregated, and analytics-ready data which can be consumed for visualization and business intelligence, including Amazon Redshift as a DW.
 
 <img src="appendix/Spotify Project - Flow.png" width="500" alt="alt text">
+<img src="appendix/Schema.png" width="500" alt="alt text">
 
 **Tools and Technologies:**
 
