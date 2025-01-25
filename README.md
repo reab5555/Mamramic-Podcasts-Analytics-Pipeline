@@ -1,4 +1,4 @@
-<img src="appendix/icon.jpeg" width="100" alt="alt text">
+<img src="appendix/1200px-Spotify.png" width="100" alt="alt text">
 
 # Mamramic Podcasts Analytics Pipeline
 
